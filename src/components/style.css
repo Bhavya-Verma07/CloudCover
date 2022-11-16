@@ -1,0 +1,21 @@
+.box{
+    background-color: burlywood;
+    width: 500px;
+   height: 500px;
+   text-align: center;
+   align-self: center;
+   border-radius: 20px;
+  }
+
+  .inputData{
+    margin-top: 15px;
+  }
+  .inputField{
+ margin-top: 50px;
+ height: 40px;
+ width: 250px;
+ border-color: white;
+ border-radius: 5px;
+ font-family: 'Times New Roman', Times, serif;
+  }
+  
