@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cloud-Cover/static/css/main.1624f5d9.css",
+    "main.js": "/Cloud-Cover/static/js/main.b7d17913.js",
+    "index.html": "/Cloud-Cover/index.html",
+    "main.1624f5d9.css.map": "/Cloud-Cover/static/css/main.1624f5d9.css.map",
+    "main.b7d17913.js.map": "/Cloud-Cover/static/js/main.b7d17913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1624f5d9.css",
+    "static/js/main.b7d17913.js"
+  ]
+}
