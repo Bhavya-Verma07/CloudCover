@@ -6,7 +6,7 @@ export const Tempapp = () => {
   const [search, setSearch] = useState("Gorakhpur");
   useEffect(() => {
     const fetchApi = async () => {
-      const url = `http://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=7ca7d8affc54e6a46a66d13ae6ba1f2f`;
+      const url = `https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=7ca7d8affc54e6a46a66d13ae6ba1f2f`;
       const response = await fetch(url);
       // console.log(response);
       const resJson = await response.json();
