@@ -18,7 +18,7 @@ export const Tempapp = () => {
 
   return (
     <>
-      <div className="box mx-auto">
+      <div className="box">
         <div className="inputData">
           <input
             type="search"

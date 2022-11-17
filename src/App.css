@@ -1,13 +1,19 @@
 .App {
+  /* background-image: linear-gradient(#CD7F32,#8B4513,#80461B,#7B3F00,black ); */
   text-align: center;
   margin-top: 10%;
-  align-items: center;
-  align-content: center;
+  margin: auto;
+  height: 800px;
+  width: 700px;
+  border-radius: 20px;
+  padding: 40px;
+  background-image: linear-gradient(rgb(111, 27, 27), rgb(201, 158, 59));
 }
-.box{
-  background-color: burlywood;
-  width: 50%;
- height: 500px;
+.heading{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: blanchedalmond;
+  font-size: 40px;
+  font-variant: normal;
  
 }
 
